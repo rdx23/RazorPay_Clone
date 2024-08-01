@@ -1,1 +1,1 @@
-# This is a clone of Razorpay Websitegir 
+# This is a clone of Razorpay Website
